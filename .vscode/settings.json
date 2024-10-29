@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "127.0.0.1",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "myevent",
+            "database": "myevent",
+            "username": "adminevent",
+            "password": "P@ssw0rd"
+        }
+    ],
+    "liveServer.settings.port": 5501
+}
